@@ -1,6 +1,6 @@
 # Function-Task
 
-### Task assigned for practicing function in javascript
+### Task assigned to practice function in javascript
 
 1.Print odd numbers in an array
 <br>
